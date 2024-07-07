@@ -1,0 +1,62 @@
+[
+    {
+        "image": "assets/tom-images/Image-Master.png",
+        "priority": 1,
+        "id": "dress123",
+        "productName": "Burberry",
+        "text": "Flowy Dress with pink and gold",
+        "regularPrice": 129.99,
+        "offerPrice": 12.00,
+        "size": 4
+    },
+    {
+        "image": "assets/tom-images/Image-Master-1.png",
+        "priority": 2,
+        "id": "dress124",
+        "productName": "Prada",
+        "text": "Beach dress",
+        "regularPrice": 129.99,
+        "offerPrice": 12.00,
+        "size": 8
+    },
+    {
+        "image": "assets/tom-images/Image-Master-2.png",
+        "priority": 3,
+        "id": "dress125",
+        "productName": "Bhandage",
+        "text": "Red dress for evening wear",
+        "regularPrice": 129.99,
+        "offerPrice": 12.00,
+        "size": 12
+    },
+    {
+        "image": "assets/tom-images/Image-Master-3.png",
+        "priority": 4,
+        "id": "dress126",
+        "productName": "Prada",
+        "text": "Wedding guest",
+        "regularPrice": 129.99,
+        "offerPrice": 12.00,
+        "size": 12
+    },
+    {
+        "image": "assets/tom-images/Image-Master-4.png",
+        "priority": 5,
+        "id": "dress127",
+        "productName": "Ansell",
+        "text": "Nightwear",
+        "regularPrice": 129.99,
+        "offerPrice": 12.00,
+        "size": 14
+    },
+    {
+        "image": "assets/tom-images/Image-Master-5.png",
+        "priority": 5,
+        "id": "dress127",
+        "productName": "Desacada",
+        "text": "Summer dress",
+        "regularPrice": 129.99,
+        "offerPrice": 12.00,
+        "size": 8
+    }
+]
